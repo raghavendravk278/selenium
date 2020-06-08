@@ -15,11 +15,8 @@ public class addbook {
 	public void launch() {
 		System.setProperty("webdriver.chrome.driver","chromedriver.exe");
 		  driver = new ChromeDriver();
-<<<<<<< HEAD
-		  driver.get("http://18.191.58.23:32768/addressbook/");
-=======
 		  driver.get("http://18.188.200.132:32768/addressbook/");
->>>>>>> branch 'master' of https://github.com/raghavendravk278/selenium.git
+
 		  driver.manage().window().maximize();
 		  driver.manage().timeouts().implicitlyWait(30,TimeUnit.SECONDS);
 	}
