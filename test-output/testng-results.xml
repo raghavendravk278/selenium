@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="17362" started-at="2020-06-06T11:00:22Z" finished-at="2020-06-06T11:00:40Z">
+  <suite name="Default suite" duration-ms="16913" started-at="2020-08-27T11:56:22Z" finished-at="2020-08-27T11:56:39Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="17362" started-at="2020-06-06T11:00:22Z" finished-at="2020-06-06T11:00:40Z">
+    <test name="Default test" duration-ms="16913" started-at="2020-08-27T11:56:22Z" finished-at="2020-08-27T11:56:39Z">
       <class name="TestNG.addbook">
-        <test-method status="PASS" signature="launch()[pri:0, instance:TestNG.addbook@c4039c]" name="launch" is-config="true" duration-ms="10945" started-at="2020-06-06T11:00:22Z" finished-at="2020-06-06T11:00:33Z">
+        <test-method status="PASS" signature="launch()[pri:0, instance:TestNG.addbook@198378d]" name="launch" is-config="true" duration-ms="10653" started-at="2020-08-27T17:26:22Z" finished-at="2020-08-27T17:26:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launch -->
-        <test-method status="PASS" signature="verifyaddbook()[pri:0, instance:TestNG.addbook@c4039c]" name="verifyaddbook" duration-ms="1987" started-at="2020-06-06T11:00:33Z" finished-at="2020-06-06T11:00:35Z">
+        <test-method status="PASS" signature="verifyaddbook()[pri:0, instance:TestNG.addbook@198378d]" name="verifyaddbook" duration-ms="1845" started-at="2020-08-27T17:26:32Z" finished-at="2020-08-27T17:26:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyaddbook -->
-        <test-method status="PASS" signature="close()[pri:0, instance:TestNG.addbook@c4039c]" name="close" is-config="true" duration-ms="4401" started-at="2020-06-06T11:00:35Z" finished-at="2020-06-06T11:00:40Z">
+        <test-method status="PASS" signature="close()[pri:0, instance:TestNG.addbook@198378d]" name="close" is-config="true" duration-ms="4384" started-at="2020-08-27T17:26:34Z" finished-at="2020-08-27T17:26:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
       </class> <!-- TestNG.addbook -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
